@@ -1,0 +1,34 @@
+# Pliki systemowe macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Ikony
+Icon
+
+# Miniatury
+._*
+
+# Pliki które mogą się pojawić na zewnętrznym dysku
+.Spotlight-V100
+.Trashes
+.Trash-*
+
+# Pliki które mogą się pojawić na współdzielonym dysku sieciowym
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Katalogi IDE
+.idea/
+.vscode/
+
+# Pliki cache Pythona
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints 

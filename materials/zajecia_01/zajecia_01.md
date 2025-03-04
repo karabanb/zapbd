@@ -136,22 +136,22 @@ wieksze_rowne = x >= y   # False
 
 ## Zadania do wykonania
 
-### Zadanie 1: Pierwszy program
+### Zadanie 1: Pierwszy program (skrypt)
 Napisz program, który wyświetli Twoje imię i wiek. Użyj zmiennych do przechowywania tych informacji.
 
-### Zadanie 2: Kalkulator
+### Zadanie 2: Kalkulator (skrypt)
 Napisz program, który:
 1. Zdefiniuje dwie zmienne z liczbami
 2. Wykona podstawowe operacje matematyczne (dodawanie, odejmowanie, mnożenie, dzielenie)
 3. Wyświetli wyniki w czytelny sposób
 
-### Zadanie 3: Konwersja typów
+### Zadanie 3: Konwersja typów (notebook)
 Napisz program, który:
 1. Zdefiniuje zmienną z liczbą całkowitą
 2. Przekonwertuje ją na tekst
 3. Wyświetli obie wersje (liczbę i tekst)
 
-### Zadanie 4: Obliczenia
+### Zadanie 4: Obliczenia (notebook)
 Napisz program, który:
 1. Obliczy pole prostokąta o bokach 5 i 3
 2. Obliczy obwód tego prostokąta

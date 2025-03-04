@@ -39,21 +39,37 @@ Jupyter Notebook to interaktywne środowisko programistyczne, które:
 - Pozwala na wykonywanie kodu "po kawałku" i natychmiastowe widzenie wyników
 - Świetnie nadaje się do eksperymentowania i nauki
 
-### Instalacja Pythona
-1. Pobierz instalator Pythona ze strony [python.org](https://www.python.org/downloads/)
-2. Podczas instalacji zaznacz opcję "Add Python to PATH"
-3. Sprawdź instalację otwierając terminal i wpisując:
+### Jak uruchomić terminal i sprawdzić instalajcę Pythona?
+1. Kliknij prawym przyciskiem myszy w dowolnym miejscu na pulpicie lub w folderze
+2. Z menu kontekstowego wybierz opcję "Git Bash Here"
+3. W otwartym terminalu sprawdź wersję Pythona wpisując:
    ```bash
    python --version
    ```
+### Jak uruchomić Pythona i go zamknąć?
+1. Otwórz terminal (np. Git Bash)
+2. Wpisz polecenie, aby uruchomić Pythona:
+   ```bash
+   python
+   ```
+3. Powinieneś zobaczyć interaktywną konsolę Pythona, gdzie możesz wpisywać polecenia Pythonowe.
+4. Aby zamknąć Pythona, wpisz:
+   ```python
+   exit()
+   ```
+### Jak uruchomić Pythona w Jupter Notebook?
 
-2. W Jupyter Notebook:
-   - Otwórz Jupyter Notebook przez Git Bash komendą:
-     ```bash
-     jupyter notebook
-     ```
-   - W przeglądarce utworz nowy notebook lub otwórz istniejący
-   - Kod wykonuje się w pojedynczych komórkach za pomocą Shift + Enter
+
+1. Otwórz Jupyter Notebook przez Git Bash komendą:
+   ```bash
+   jupyter notebook
+   ```
+2. W przeglądarce utwórz nowy notebook lub otwórz istniejący
+3. W pierwszej komórce wpisz kod, aby sprawdzić wersję Pythona:
+   ```python
+   !python --version
+   ```
+4. Kod wykonuje się w pojedynczych komórkach za pomocą Shift + Enter
 
 ## 3. Pierwszy program w Pythonie
 

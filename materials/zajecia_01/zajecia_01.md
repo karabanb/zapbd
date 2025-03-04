@@ -12,6 +12,10 @@ Programowanie to proces tworzenia instrukcji dla komputera, które mówią mu co
 - Idealny do nauki programowania
 - Powszechnie używany w Big Data i Data Science
 
+Oficjalna strona Pythona: [python.org](https://www.python.org/)
+Dokumentacja Pythona: [docs.python.org](https://docs.python.org/3/)
+Tutorial Pythona: [docs.python.org/tutorial](https://docs.python.org/3/tutorial/)
+
 ## 2. Uruchamianie Pythona na zajęciach
 
 Na zajęciach będziemy korzystać z trzech głównych narzędzi:
@@ -23,6 +27,10 @@ Git Bash to emulator terminala dla systemu Windows, który zapewnia:
 - Narzędzia do kontroli wersji Git
 - Środowisko przypominające systemy Unix/Linux, często używane w Data Science
 
+Strona Git: [git-scm.com](https://git-scm.com/)
+Dokumentacja Git: [git-scm.com/doc](https://git-scm.com/doc)
+Pobieranie Git Bash: [git-scm.com/downloads](https://git-scm.com/downloads)
+
 ### Notepad++
 Notepad++ to lekki i szybki edytor tekstu, który oferuje:
 - Kolorowanie składni dla wielu języków programowania, w tym Pythona
@@ -31,6 +39,10 @@ Notepad++ to lekki i szybki edytor tekstu, który oferuje:
 - Niskie wymagania systemowe
 - Idealne narzędzie do nauki podstaw programowania
 
+Strona Notepad++: [notepad-plus-plus.org](https://notepad-plus-plus.org/)
+Dokumentacja: [npp-user-manual.org](https://npp-user-manual.org/)
+Pobieranie: [notepad-plus-plus.org/downloads](https://notepad-plus-plus.org/downloads/)
+
 ### Jupyter Notebook
 Jupyter Notebook to interaktywne środowisko programistyczne, które:
 - Pozwala na tworzenie i udostępnianie dokumentów zawierających "żywy" kod
@@ -38,6 +50,10 @@ Jupyter Notebook to interaktywne środowisko programistyczne, które:
 - Jest standardem w Data Science i analizie danych
 - Pozwala na wykonywanie kodu "po kawałku" i natychmiastowe widzenie wyników
 - Świetnie nadaje się do eksperymentowania i nauki
+
+Strona Jupyter: [jupyter.org](https://jupyter.org/)
+Dokumentacja: [docs.jupyter.org](https://docs.jupyter.org/)
+Try Jupyter: [try.jupyter.org](https://try.jupyter.org/)
 
 ### Jak uruchomić terminal i sprawdzić instalajcę Pythona?
 1. Kliknij prawym przyciskiem myszy w dowolnym miejscu na pulpicie lub w folderze
@@ -139,11 +155,19 @@ wieksze_rowne = x >= y   # False
 ### Zadanie 1: Pierwszy program (skrypt)
 Napisz program, który wyświetli Twoje imię i wiek. Użyj zmiennych do przechowywania tych informacji.
 
+Pomocne materiały:
+- Tutorial Pythona - Print i zmienne: [docs.python.org/tutorial/introduction.html#using-python-as-a-calculator](https://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator)
+- DataCamp - Introduction to Python: [datacamp.com/courses/intro-to-python-for-data-science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+
 ### Zadanie 2: Kalkulator (skrypt)
 Napisz program, który:
 1. Zdefiniuje dwie zmienne z liczbami
 2. Wykona podstawowe operacje matematyczne (dodawanie, odejmowanie, mnożenie, dzielenie)
 3. Wyświetli wyniki w czytelny sposób
+
+Pomocne materiały:
+- Tutorial Pythona - Operacje matematyczne: [docs.python.org/tutorial/introduction.html#numbers](https://docs.python.org/3/tutorial/introduction.html#numbers)
+- DataCamp - Python Operators and Variables: [datacamp.com/tutorial/python-operators-variables](https://www.datacamp.com/tutorial/python-operators-variables)
 
 ### Zadanie 3: Konwersja typów (notebook)
 Napisz program, który:
@@ -151,14 +175,27 @@ Napisz program, który:
 2. Przekonwertuje ją na tekst
 3. Wyświetli obie wersje (liczbę i tekst)
 
+Pomocne materiały:
+- Tutorial Pythona - Konwersja typów: [docs.python.org/tutorial/introduction.html#strings](https://docs.python.org/3/tutorial/introduction.html#strings)
+- DataCamp - Python Data Types: [datacamp.com/community/tutorials/python-data-types](https://www.datacamp.com/community/tutorials/python-data-types)
+
 ### Zadanie 4: Obliczenia (notebook)
 Napisz program, który:
 1. Obliczy pole prostokąta o bokach 5 i 3
 2. Obliczy obwód tego prostokąta
 3. Wyświetli oba wyniki z odpowiednimi opisami
 
+Pomocne materiały:
+- Tutorial Pythona - Wyrażenia matematyczne: [docs.python.org/tutorial/introduction.html#using-python-as-a-calculator](https://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator)
+- DataCamp - Python Basics: [datacamp.com/courses/python-basics](https://www.datacamp.com/courses/python-basics)
+
 ## Wskazówki
 - Używaj opisowych nazw zmiennych
 - Dodawaj komentarze do kodu używając #
 - Testuj program po każdej zmianie
-- Zwracaj uwagę na formatowanie kodu 
+- Zwracaj uwagę na formatowanie kodu
+
+Dodatkowe materiały do nauki:
+- Python Style Guide (PEP 8): [python.org/dev/peps/pep-0008](https://www.python.org/dev/peps/pep-0008/)
+- Real Python Tutorials: [realpython.com](https://realpython.com/)
+- Python Documentation: [docs.python.org](https://docs.python.org/3/)

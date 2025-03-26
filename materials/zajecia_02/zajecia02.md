@@ -35,6 +35,13 @@ liczba_owocow = len(owoce)
 pierwsze_dwa = owoce[0:2]     # ["jabłko", "truskawka"]
 co_drugi = owoce[::2]         # co drugi element
 ```
+### Zadanie praktyczne: Wprowadzanie danych BMI z wykorzystaniem list
+
+W tym zadaniu przeanalizujemy dane dotyczące BMI (Body Mass Index) kilku osób. Wykonaj poniższe kroki w swoim notebooku Jupyter:
+
+- stwórz listę osoba_1, która zawiera dane pojedyńczej osoby w postaci wartości dla pojedeynczej osoby. Niech wartości te reprezentują imię (str), wiek (int), waga (int), wzrost w m (float)
+- na podstawie kalkulatora BMI dopisz jako ostatnią wartość wskaźnik BMI wyliczony na podstawie dostarczonych danych,
+- zmodyfkuj imie osoby 
 
 ### Krotki (tuple)
 Krotki to uporządkowane, niemodyfikowalne kolekcje elementów.
@@ -95,7 +102,13 @@ tekst_formatowany1 = "Mam na imię %s i mam %d lat." % (imie, wiek)
 tekst_formatowany2 = "Mam na imię {} i mam {} lat.".format(imie, wiek)
 tekst_formatowany3 = f"Mam na imię {imie} i mam {wiek} lat."  # f-string (od Python 3.6)
 ```
+### Zadanie praktyczne: Wprowadzanie i modyfikaowanie danych tekstowych
 
+W tym zadaniu będziemy modyfikować i formatować napisy przy uzyciu dostępnych metod:
+- Wyciągnij z listy `osoba_1` imię i zapisz je do zmiennej 'imie'
+- napdisz zmienna 'imie' i zmien w niej imie na pisane małymi literami
+- utwórz nową zmienną 'imie_upper' w której imię jest w całości zapisany WIELKIMI LITERAMI
+- 
 ### Zakresy (range)
 Zakresy to sekwencje liczb całkowitych, często używane w pętlach.
 
